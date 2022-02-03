@@ -1,8 +1,5 @@
-# Data Challenge Jiachen Huang
+# Data Challenge
 
-Version: v20.01
-Candidate ID: C1836558
-Name:Jiachen Huang
 
 ## Files
 Data
